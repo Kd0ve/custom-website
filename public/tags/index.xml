@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hello</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on Hello</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 21 Jul 2024 20:17:51 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hack the Box</title>
+      <link>https://example.org/tags/hack-the-box/</link>
+      <pubDate>Sun, 21 Jul 2024 17:51:00 +0000</pubDate>
+      <guid>https://example.org/tags/hack-the-box/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTB</title>
+      <link>https://example.org/tags/htb/</link>
+      <pubDate>Sun, 21 Jul 2024 17:51:00 +0000</pubDate>
+      <guid>https://example.org/tags/htb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Post</title>
+      <link>https://example.org/tags/post/</link>
+      <pubDate>Sun, 21 Jul 2024 17:51:00 +0000</pubDate>
+      <guid>https://example.org/tags/post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portswigger</title>
+      <link>https://example.org/tags/portswigger/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/portswigger/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Practice</title>
+      <link>https://example.org/tags/practice/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/practice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Try Hack Me</title>
+      <link>https://example.org/tags/try-hack-me/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/try-hack-me/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webdev</title>
+      <link>https://example.org/tags/webdev/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/webdev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyber</title>
+      <link>https://example.org/tags/cyber/</link>
+      <pubDate>Tue, 16 Apr 2024 00:20:04 -0400</pubDate>
+      <guid>https://example.org/tags/cyber/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

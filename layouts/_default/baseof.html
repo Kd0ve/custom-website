@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ or site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  {{ partial "head.html" . }}
+  <meta name="description" content="{{ .Description }}">
+</head>
+<body>
+  <header style="display: flex; flex-direction: column; justify-content: center; align-items: center">
+    {{ partial "header.html" . }}
+  </header>
+  <main>
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center">
+      <div style="padding: 20px;" class="content">
+        {{ block "main" . }}{{ end }}
+      </div>
+    </div>
+  </main>
+  <footer>
+    {{ partial "footer.html" . }}
+  </footer>
+</body>
+</html>

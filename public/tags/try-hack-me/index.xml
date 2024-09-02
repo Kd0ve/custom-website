@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Try Hack Me on Hello</title>
+    <link>https://example.org/tags/try-hack-me/</link>
+    <description>Recent content in Try Hack Me on Hello</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/try-hack-me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forensics Using Volatility</title>
+      <link>https://example.org/posts/thm-forensics/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/thm-forensics/</guid>
+      <description>Today, I&amp;rsquo;m going to walk through how I solved Try Hack Me&amp;rsquo;s Forensics practice challenge. The task is to analyze a memory dump of a target system and find the malicious files. It largely focuses on identifying different IOC.&#xA;Task 1 Getting Started My first instinct is to open up autopsy and pull the image into that program to analyze. Completely incorrect method. Well, not completely. I was able to see the hex dump of the image, but it was listing as two unallocated partitions that showed as deleted.</description>
+    </item>
+  </channel>
+</rss>
