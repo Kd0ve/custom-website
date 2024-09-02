@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Hello</title>
-    <link>https://example.org/pages/</link>
+    <link>http://localhost:1313/pages/</link>
     <description>Recent content in Pages on Hello</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resources</title>
-      <link>https://example.org/pages/resources/</link>
+      <link>http://localhost:1313/pages/resources/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/pages/resources/</guid>
+      <guid>http://localhost:1313/pages/resources/</guid>
       <description>General/Misc Learning - FHR CyberChef CSByGB PenTips Cobalt Socialmedia Conversion Tool&#xD;OSINT List Of OSINT Resources&#xD;What 3 Words Epoch Converter&#xD;Blockchain Lookup&#xD;The Internet Archive Password Cracking How To: Cewl Crackstation&#xD;How To: Mentalist&#xD;Ophcrack&#xD;kkryp0nn Wordlists Repo&#xD;Forensics Stegonography - FHR&#xD;Aperi Solve Binwalk&#xD;Exif&#xD;Forensically&#xD;Reverse Engineering ImHex Toolkit - Ultimate Toolkit for Reversing, Malware Analysis, and Cracking&#xD;Network Traffic Analysis Network Traffic Analysis Cheatsheet Repo DynamiteLab Auto Analyze&#xD;Wireshark - FHR&#xD;Enumeration and Exploitation Intro to Assembly Web App Exploitation SQL Injection Labs OWASP Top Ten OWASP Top Ten Cheatsheet&#xD;Breaking Web Apps For Beginners FoxyProxy&#xD;Subdomain Finder Cryptography CacheSleuth&#xD;Dcode.</description>
     </item>
   </channel>

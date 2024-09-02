@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learning on Hello</title>
-    <link>https://example.org/categories/learning/</link>
+    <link>http://localhost:1313/categories/learning/</link>
     <description>Recent content in Learning on Hello</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 21 Jul 2024 20:17:51 +0000</lastBuildDate>
-    <atom:link href="https://example.org/categories/learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HTB Bug Bounty - HTTP Fundamentals</title>
-      <link>https://example.org/posts/htb-bug-bounty/</link>
+      <link>http://localhost:1313/posts/htb-bug-bounty/</link>
       <pubDate>Sun, 21 Jul 2024 17:51:00 +0000</pubDate>
-      <guid>https://example.org/posts/htb-bug-bounty/</guid>
+      <guid>http://localhost:1313/posts/htb-bug-bounty/</guid>
       <description>This is just some notes I took while going through the Bug Bounty course in Hack The Box Academy. I figured I would post it in case it would help others learn.&#xA;Apologies if it seems everywhere! I didn&amp;rsquo;t go through and clean anything up :3&#xA;HyperText Transfer Protocol (HTTP) Fully Qualified Domain Name (FQDN) - essentially the domain name of the website Uniform Resource Locator - this includes the FQDN as well as different parts like the top-layer domain, subdomain, query string, and fragment.</description>
     </item>
     <item>
       <title>Portswigger Academy Day Three</title>
-      <link>https://example.org/posts/portswigger-day-three/</link>
+      <link>http://localhost:1313/posts/portswigger-day-three/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/portswigger-day-three/</guid>
+      <guid>http://localhost:1313/posts/portswigger-day-three/</guid>
       <description>This took a while for me to get through. I kept working on small sections at a time but wanted enough content for a post before I posted. So, although it says, &amp;ldquo;Day Three&amp;rdquo;, it&amp;rsquo;s more like day 6 or 7.&#xA;In this post, we&amp;rsquo;re going to be covering part of the API Testing module. This is all about utilizing API on web apps to force changes to be made to content on the website, or potentially leak valuable information.</description>
     </item>
     <item>
       <title>Portswigger Academy Day Two</title>
-      <link>https://example.org/posts/portswigger-day-two/</link>
+      <link>http://localhost:1313/posts/portswigger-day-two/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/portswigger-day-two/</guid>
+      <guid>http://localhost:1313/posts/portswigger-day-two/</guid>
       <description>Today is my second day going through the PortSwigger Academy learning paths! We&amp;rsquo;re continuing with the Server-side Vulnerabilities pathway, where we will finish up with OS Command Injection and SQL Injection.&#xA;OS Command Injection This is a shell attack that allows the execution of OS commands, which can be used to fully compromise a system running the application at hand.&#xA;It also gives an avenue for potentially changing internal permissions, allowing for higher privileges within the system than you may have initially been able to gain access to.</description>
     </item>
     <item>
       <title>Portswigger Academy Day One</title>
-      <link>https://example.org/posts/portswigger-day-one/</link>
+      <link>http://localhost:1313/posts/portswigger-day-one/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/portswigger-day-one/</guid>
+      <guid>http://localhost:1313/posts/portswigger-day-one/</guid>
       <description>Today I&amp;rsquo;m making my first entry in what I hope will be a series of posts on my daily learning at Portswigger Academy! Please let me know if you enjoyed this post, and without further ado, here are my notes for day one!&#xA;Path Traversal Starting off I&amp;rsquo;m going down the server-side vulnerabilities path, which covers a variety of common server-side exploits.&#xA;Starting off, they went over path traversal, which essentially is a vulnerability that allows you to access different areas of the server than you otherwise should be able to.</description>
     </item>
   </channel>

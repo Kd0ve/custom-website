@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hack the Box on Hello</title>
-    <link>https://example.org/tags/hack-the-box/</link>
+    <link>http://localhost:1313/tags/hack-the-box/</link>
     <description>Recent content in Hack the Box on Hello</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 21 Jul 2024 20:17:51 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/hack-the-box/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hack-the-box/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HTB Bug Bounty - HTTP Fundamentals</title>
-      <link>https://example.org/posts/htb-bug-bounty/</link>
+      <link>http://localhost:1313/posts/htb-bug-bounty/</link>
       <pubDate>Sun, 21 Jul 2024 17:51:00 +0000</pubDate>
-      <guid>https://example.org/posts/htb-bug-bounty/</guid>
+      <guid>http://localhost:1313/posts/htb-bug-bounty/</guid>
       <description>This is just some notes I took while going through the Bug Bounty course in Hack The Box Academy. I figured I would post it in case it would help others learn.&#xA;Apologies if it seems everywhere! I didn&amp;rsquo;t go through and clean anything up :3&#xA;HyperText Transfer Protocol (HTTP) Fully Qualified Domain Name (FQDN) - essentially the domain name of the website Uniform Resource Locator - this includes the FQDN as well as different parts like the top-layer domain, subdomain, query string, and fragment.</description>
     </item>
   </channel>

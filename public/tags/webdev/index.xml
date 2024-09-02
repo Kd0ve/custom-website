@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Webdev on Hello</title>
-    <link>https://example.org/tags/webdev/</link>
+    <link>http://localhost:1313/tags/webdev/</link>
     <description>Recent content in Webdev on Hello</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/webdev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/webdev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overview of Hugo Site Setup</title>
-      <link>https://example.org/posts/make-hugo-website/</link>
+      <link>http://localhost:1313/posts/make-hugo-website/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/make-hugo-website/</guid>
+      <guid>http://localhost:1313/posts/make-hugo-website/</guid>
       <description>This post is going to be about how I would go about setting up a website like mine now that I’ve done it. I’ve learned a lot, and ran into a lot of specific issues, and figured I could be helpful to others who run into these weird little issues too, as it was difficult to find information on them online.&#xA;I’m not going to be going over the specifics of Hugo or really going into detail certain terms I am using.</description>
     </item>
   </channel>

@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Hello</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Hello</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 21 Jul 2024 20:17:51 +0000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HTB Bug Bounty - HTTP Fundamentals</title>
-      <link>https://example.org/posts/htb-bug-bounty/</link>
+      <link>http://localhost:1313/posts/htb-bug-bounty/</link>
       <pubDate>Sun, 21 Jul 2024 17:51:00 +0000</pubDate>
-      <guid>https://example.org/posts/htb-bug-bounty/</guid>
+      <guid>http://localhost:1313/posts/htb-bug-bounty/</guid>
       <description>This is just some notes I took while going through the Bug Bounty course in Hack The Box Academy. I figured I would post it in case it would help others learn.&#xA;Apologies if it seems everywhere! I didn&amp;rsquo;t go through and clean anything up :3&#xA;HyperText Transfer Protocol (HTTP) Fully Qualified Domain Name (FQDN) - essentially the domain name of the website Uniform Resource Locator - this includes the FQDN as well as different parts like the top-layer domain, subdomain, query string, and fragment.</description>
     </item>
     <item>
       <title>Portswigger Academy Day Three</title>
-      <link>https://example.org/posts/portswigger-day-three/</link>
+      <link>http://localhost:1313/posts/portswigger-day-three/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/portswigger-day-three/</guid>
+      <guid>http://localhost:1313/posts/portswigger-day-three/</guid>
       <description>This took a while for me to get through. I kept working on small sections at a time but wanted enough content for a post before I posted. So, although it says, &amp;ldquo;Day Three&amp;rdquo;, it&amp;rsquo;s more like day 6 or 7.&#xA;In this post, we&amp;rsquo;re going to be covering part of the API Testing module. This is all about utilizing API on web apps to force changes to be made to content on the website, or potentially leak valuable information.</description>
     </item>
     <item>
       <title>Portswigger Academy Day Two</title>
-      <link>https://example.org/posts/portswigger-day-two/</link>
+      <link>http://localhost:1313/posts/portswigger-day-two/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/portswigger-day-two/</guid>
+      <guid>http://localhost:1313/posts/portswigger-day-two/</guid>
       <description>Today is my second day going through the PortSwigger Academy learning paths! We&amp;rsquo;re continuing with the Server-side Vulnerabilities pathway, where we will finish up with OS Command Injection and SQL Injection.&#xA;OS Command Injection This is a shell attack that allows the execution of OS commands, which can be used to fully compromise a system running the application at hand.&#xA;It also gives an avenue for potentially changing internal permissions, allowing for higher privileges within the system than you may have initially been able to gain access to.</description>
     </item>
     <item>
       <title>Portswigger Academy Day One</title>
-      <link>https://example.org/posts/portswigger-day-one/</link>
+      <link>http://localhost:1313/posts/portswigger-day-one/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/portswigger-day-one/</guid>
+      <guid>http://localhost:1313/posts/portswigger-day-one/</guid>
       <description>Today I&amp;rsquo;m making my first entry in what I hope will be a series of posts on my daily learning at Portswigger Academy! Please let me know if you enjoyed this post, and without further ado, here are my notes for day one!&#xA;Path Traversal Starting off I&amp;rsquo;m going down the server-side vulnerabilities path, which covers a variety of common server-side exploits.&#xA;Starting off, they went over path traversal, which essentially is a vulnerability that allows you to access different areas of the server than you otherwise should be able to.</description>
     </item>
     <item>
       <title>Forensics Using Volatility</title>
-      <link>https://example.org/posts/thm-forensics/</link>
+      <link>http://localhost:1313/posts/thm-forensics/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/thm-forensics/</guid>
+      <guid>http://localhost:1313/posts/thm-forensics/</guid>
       <description>Today, I&amp;rsquo;m going to walk through how I solved Try Hack Me&amp;rsquo;s Forensics practice challenge. The task is to analyze a memory dump of a target system and find the malicious files. It largely focuses on identifying different IOC.&#xA;Task 1 Getting Started My first instinct is to open up autopsy and pull the image into that program to analyze. Completely incorrect method. Well, not completely. I was able to see the hex dump of the image, but it was listing as two unallocated partitions that showed as deleted.</description>
     </item>
     <item>
       <title>Overview of Hugo Site Setup</title>
-      <link>https://example.org/posts/make-hugo-website/</link>
+      <link>http://localhost:1313/posts/make-hugo-website/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/make-hugo-website/</guid>
+      <guid>http://localhost:1313/posts/make-hugo-website/</guid>
       <description>This post is going to be about how I would go about setting up a website like mine now that I’ve done it. I’ve learned a lot, and ran into a lot of specific issues, and figured I could be helpful to others who run into these weird little issues too, as it was difficult to find information on them online.&#xA;I’m not going to be going over the specifics of Hugo or really going into detail certain terms I am using.</description>
     </item>
     <item>
       <title>Resources</title>
-      <link>https://example.org/pages/resources/</link>
+      <link>http://localhost:1313/pages/resources/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/pages/resources/</guid>
+      <guid>http://localhost:1313/pages/resources/</guid>
       <description>General/Misc Learning - FHR CyberChef CSByGB PenTips Cobalt Socialmedia Conversion Tool&#xD;OSINT List Of OSINT Resources&#xD;What 3 Words Epoch Converter&#xD;Blockchain Lookup&#xD;The Internet Archive Password Cracking How To: Cewl Crackstation&#xD;How To: Mentalist&#xD;Ophcrack&#xD;kkryp0nn Wordlists Repo&#xD;Forensics Stegonography - FHR&#xD;Aperi Solve Binwalk&#xD;Exif&#xD;Forensically&#xD;Reverse Engineering ImHex Toolkit - Ultimate Toolkit for Reversing, Malware Analysis, and Cracking&#xD;Network Traffic Analysis Network Traffic Analysis Cheatsheet Repo DynamiteLab Auto Analyze&#xD;Wireshark - FHR&#xD;Enumeration and Exploitation Intro to Assembly Web App Exploitation SQL Injection Labs OWASP Top Ten OWASP Top Ten Cheatsheet&#xD;Breaking Web Apps For Beginners FoxyProxy&#xD;Subdomain Finder Cryptography CacheSleuth&#xD;Dcode.</description>
     </item>
     <item>
       <title>Crosslock</title>
-      <link>https://example.org/posts/crosslock/</link>
+      <link>http://localhost:1313/posts/crosslock/</link>
       <pubDate>Tue, 16 Apr 2024 00:20:04 -0400</pubDate>
-      <guid>https://example.org/posts/crosslock/</guid>
+      <guid>http://localhost:1313/posts/crosslock/</guid>
       <description>Intro So, I need to be vaguer about this write-up, but I wanted to put out something regarding a recent competition I did. It was a lot of fun. How I did was significantly better than it had been. I went from getting 717th place to 244th place. So that means I met my goal this year!! Anyway, I&amp;rsquo;m going to do a quick write-up of one of their sections.</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>https://example.org/posts/hello-world/</link>
+      <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Mon, 15 Apr 2024 17:44:04 -0400</pubDate>
-      <guid>https://example.org/posts/hello-world/</guid>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
       <description>First post This is my first post! I&amp;rsquo;m excited for this new page because I finally seemed to manage to figure out a way to make a nice looking website. I was trying and trying forever to find something good, but could never seem to really find a good thing that stuck. If you want to learn about who I am, visit my about page. I&amp;rsquo;ll go into more detail on who I am and why I&amp;rsquo;m even making this thing.</description>
     </item>
   </channel>
