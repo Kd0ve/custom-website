@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+  
+li {
+    float: left;
+    padding: 1em;
+}
+
+footer {
+    padding: 5px;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+}
+
+img {
+    width: 80%;
+}
+
+.current-page {
+    color:blue;
+}
+
+.content {
+    width: 40%;
+    border: 1px solid white; 
+}
+
+.content-post {
+    padding: 50px;
+}
